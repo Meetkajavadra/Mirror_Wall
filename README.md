@@ -24,3 +24,8 @@
 <img src = "https://user-images.githubusercontent.com/113905423/196561735-6acc594d-0dc0-4ba9-9ff8-1eb20fac4add.png" height = "500" width = "250">
 <img src = "https://user-images.githubusercontent.com/113905423/196561739-93cb81ad-af99-412a-8ca7-ef312b1163f9.png" height = "500" width = "250">
 <img src = "https://user-images.githubusercontent.com/113905423/196561744-2d338a65-4f81-46f0-97f8-1fc49612746f.png" height = "500" width = "250">
+
+# GIF
+
+<img src = "https://user-images.githubusercontent.com/113905423/196575737-a08897b3-0db4-4816-96dc-381a9a51851d.gif" height = "500" width = "250">
+
